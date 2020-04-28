@@ -1,1 +1,2 @@
 Hello this is the first story. Now i am adding some more lines into it to make it more interesting. And i think its perfect!!!!
+adding some more line to merge in master file.
